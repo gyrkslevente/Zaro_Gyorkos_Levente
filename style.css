@@ -1,0 +1,33 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div#menu 
+{
+    background-color    : #363062    ;
+    padding             : 8px 0     ;
+    text-align          : center    ;
+    font-weight         : bold;
+}
+
+div#menu a
+{
+    color               : #ffffff        ;
+    text-decoration     : none          ;
+    display             : inline-block  ;
+    width               : 120px         ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+div#menu a:hover 
+{
+    color               :rgb(33, 114, 235)           ;
+}
+
+body{
+    background-color: #4D4C7D;
+}
+
+
+
